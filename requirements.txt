@@ -1,2 +1,2 @@
-pip install flask, flask_httpauth, passlib, itsdangerous
+pip3 install -r flask, flask_sqlalchemy, flask_httpauth, passlib, itsdangerous
 
